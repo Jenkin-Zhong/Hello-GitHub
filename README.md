@@ -5,5 +5,6 @@ Hello GitHub
 int main(){
   printf("Hello Word！\n");
   printf("Test\n");
+  printf("Whats");
   return 0;
 }
